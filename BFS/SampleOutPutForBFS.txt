@@ -1,0 +1,108 @@
+In 0.000000 seconds there were 1 solutions found for 1 queens and 2 children generated.
+Q 
+
+In 0.000000 seconds there were 0 solutions found for 2 queens and 10 children generated.
+In 0.000000 seconds there were 0 solutions found for 3 queens and 48 children generated.
+In 0.015616 seconds there were 2 solutions found for 4 queens and 260 children generated.
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
+
+. . Q . 
+Q . . . 
+. . . Q 
+. Q . . 
+
+In 0.078130 seconds there were 10 solutions found for 5 queens and 1630 children generated.
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+
+In 0.546912 seconds there were 4 solutions found for 6 queens and 11742 children generated.
+. Q . . . . 
+. . . Q . . 
+. . . . . Q 
+Q . . . . . 
+. . Q . . . 
+. . . . Q . 
+
+. . Q . . . 
+. . . . . Q 
+. Q . . . . 
+. . . . Q . 
+Q . . . . . 
+. . . Q . . 
+
+. . . Q . . 
+Q . . . . . 
+. . . . Q . 
+. Q . . . . 
+. . . . . Q 
+. . Q . . . 
+
+. . . . Q . 
+. . Q . . . 
+Q . . . . . 
+. . . . . Q 
+. . . Q . . 
+. Q . . . . 
+
+In 15.647376 seconds there were 40 solutions found for 7 queens and 95900 children generated.
+In 1035.214009 seconds there were 92 solutions found for 8 queens and 876808 children generated.
